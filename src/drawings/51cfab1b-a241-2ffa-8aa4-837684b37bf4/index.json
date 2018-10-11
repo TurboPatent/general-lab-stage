@@ -1,0 +1,33 @@
+{
+  "isLandscape": false,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "numberLabel",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "item",
+        "position": {
+          "x": 603.2785453796387,
+          "y": 17.875
+        },
+        "size": {
+          "width": 28.346454620361328,
+          "height": 28.346454620361328
+        },
+        "angle": 0,
+        "label": "",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "only",
+        "id": "4d0a6d5f-f32d-4b30-9c1a-bb23d928eea3",
+        "z": 1,
+        "objectID": "e60eeaf5-3a6d-cad2-a7fc-f7c60234cd5e",
+        "number": 0
+      }
+    ]
+  }
+}
